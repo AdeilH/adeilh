@@ -33,7 +33,7 @@ I'm a software engineer passionate about high-performance systems, financial tec
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adeilh&show_icons=true&theme=dark)
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeelhussain23/)
